@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: NEHHC
+title: National Environmental and Human Hazards Committee
 email:
 description: >- # this means to ignore newlines until "baseurl:"
- The National Environmental and Human Hazards Committee.
+ The National Environmental and Human Hazards Committee of North America.
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
